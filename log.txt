@@ -1,0 +1,98 @@
+You: How are you
+
+Clep: ? what is your new year’s resolution for 2013?
+how was your holiday season? i spent it in a small town, santa barbara. we had a big celebration on christmas eve with family and friends at a local restaurant that does not close down for the day. they served us amazing dishes all night long. then we went to midnight mass at the catholic church around the corner from the restaurant. this was our second year
+
+You: exit
+
+Sat Apr 06 23:10:00 2024
+You: hi how are you
+
+Clep: Hello! How are you feeling today?
+
+You: i liek to play games
+
+Clep:  like GTA and COD
+i liek to play games like GTA and COD, 0 votes
+
+Sat Apr 06 23:11:10 2024
+You: Hello how are you
+
+Clep: Hello! How are you feeling today?
+
+Sat Apr 06 23:51:10 2024
+Sun Apr 07 00:01:06 2024
+Sun Apr 07 00:25:13 2024
+Sun Apr 07 00:25:35 2024
+You: hello
+Clep: Hi there! What's on your mind?
+
+Sun Apr 07 00:30:02 2024
+You: hello how are yuou
+Clep: Hello! How are you feeling today?
+
+Sun Apr 07 00:55:04 2024
+Sun Apr 07 01:03:20 2024
+You: hello
+Clep: Hi there! What's on your mind?
+
+Sun Apr 07 01:06:07 2024
+Sun Apr 07 01:07:56 2024
+Sun Apr 07 01:11:00 2024
+Sun Apr 07 01:13:04 2024
+Sun Apr 07 01:13:11 2024
+Sun Apr 07 01:13:26 2024
+Sun Apr 07 01:13:39 2024
+Sun Apr 07 01:14:09 2024
+Sun Apr 07 01:14:51 2024
+Sun Apr 07 01:15:49 2024
+Sun Apr 07 01:16:22 2024
+Sun Apr 07 01:16:43 2024
+Sun Apr 07 09:36:57 2024
+Sun Apr 07 09:40:26 2024
+You: hello how are you
+Clep: Hi there! What's on your mind?
+
+You: Im not feeling well today
+Clep: ….i have a slight flu that my husband has been feeding to me for the past couple of days, but i just cannot stay in bed and let it kill me…so here are some photos from the weekend we spent at the beach with our boys…
+we went camping with 20 other families and everyone had a great time! i have so much to share, but it will have to wait until tomorrow!
+
+Sun Apr 07 09:42:02 2024
+You: Im not feeling well today.
+Clep:  my stomach hurts so bad. its killing me right now.
+i have had this thing for a couple of weeks already and i cant even eat anything or drink any liquids without wanting to throw up!
+how much longer do i have to suffer with this?! it feels like im dying slowly from hunger.
+
+You: Why does your stomach hurt?
+Clep: 
+Stomach pain is a very common complaint. Most of the time, it's not a sign of anything serious. It could be caused by indigestion or constipation or even by eating too much of some foods that irritate your stomach.
+Sometimes, though, stomach pain can indicate a more serious problem, such as an ulcer, appendicitis, gallbladder disease, or colon cancer. Your doctor can find
+
+You: Are you okay?
+Clep:  i've been trying to call but your line is busy.
+I feel like this was a response to my email inbox...
+Hey, I never got back to you! I'm sorry, things have been crazy and hectic, and I'll be honest with you... I don't know what you're talking about. I haven't had time to check any of my emails or respond to them. Sorry again, and thanks for your patience.
+
+Sun Apr 07 09:48:43 2024
+Sun Apr 07 09:49:00 2024
+Sun Apr 07 09:49:13 2024
+Sun Apr 07 09:53:14 2024
+Sun Apr 07 09:53:20 2024
+Sun Apr 07 09:53:24 2024
+Sun Apr 07 09:55:31 2024
+Sun Apr 07 09:55:39 2024
+Sun Apr 07 09:56:44 2024
+Sun Apr 07 10:05:27 2024
+Sun Apr 07 10:07:07 2024
+You: Type here to ask a question
+Clep: 
+type your answer
+\end{code}
+
+Sun Apr 07 10:07:25 2024
+Sun Apr 07 10:09:55 2024
+Sun Apr 07 10:17:48 2024
+Sun Apr 07 10:17:57 2024
+Sun Apr 07 10:22:59 2024
+Sun Apr 07 10:24:17 2024
+Sun Apr 07 10:24:31 2024
